@@ -34,7 +34,7 @@ public class FollowWaypoint : MonoBehaviour
 
     public void GoToRuin()
     {
-        g.AStar(currentNode, wps[1]);
+        g.AStar(currentNode, wps[3]);
         currentWP = 0;
     }
 
