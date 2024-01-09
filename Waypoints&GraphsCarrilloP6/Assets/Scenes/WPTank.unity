@@ -203,7 +203,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4823948580163772, guid: 650ea2e5f9c3b4ae4aa6e7fdf6cf157b, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.0429878
+      value: -0.16
       objectReference: {fileID: 0}
     - target: {fileID: 4823948580163772, guid: 650ea2e5f9c3b4ae4aa6e7fdf6cf157b, type: 3}
       propertyPath: m_LocalPosition.z
@@ -471,7 +471,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4823948580163772, guid: 650ea2e5f9c3b4ae4aa6e7fdf6cf157b, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -39.2
+      value: -42.19
       objectReference: {fileID: 0}
     - target: {fileID: 4823948580163772, guid: 650ea2e5f9c3b4ae4aa6e7fdf6cf157b, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1179,9 +1179,9 @@ MonoBehaviour:
     dir: 1
   - node1: {fileID: 151931004}
     node2: {fileID: 738844100}
-    dir: 1
+    dir: 0
   - node1: {fileID: 151931004}
-    node2: {fileID: 738844100}
+    node2: {fileID: 1341659634}
     dir: 1
   - node1: {fileID: 1185943566}
     node2: {fileID: 452666370}
